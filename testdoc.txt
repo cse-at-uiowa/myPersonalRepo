@@ -1,1 +1,2 @@
 This is the first line of my document
+I'll add this new line
